@@ -48,6 +48,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/retoauto/userinterfaces/ProductosCategoriaUno.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/retoauto/userinterfaces/ProductosCategoriaUnoCarrito.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/retoauto/utils/setup/BeforeSuite.java">
           <value>
             <set />
