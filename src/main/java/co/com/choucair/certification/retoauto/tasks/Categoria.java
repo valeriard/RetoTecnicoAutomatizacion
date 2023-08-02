@@ -19,7 +19,7 @@ public class Categoria implements Task {
         actor.attemptsTo(
                 WaitUntil.the(ObjetosTransversales.menu, WebElementStateMatchers.isClickable()),
                 Click.on(ObjetosTransversales.menu),
-                WaitUntil.the(ObjetosTransversales.categoria_mercado, WebElementStateMatchers.isVisible()),
-                Click.on(ObjetosTransversales.categoria_mercado));
+                WaitUntil.the(ObjetosTransversales.categoria, WebElementStateMatchers.isVisible()),
+                Click.on(ObjetosTransversales.categoria));
     }
 }

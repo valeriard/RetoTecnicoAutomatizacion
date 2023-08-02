@@ -3,6 +3,11 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/IntelliJ Default">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="/a.dummy">
           <value>
             <set />
@@ -68,6 +73,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/retoauto/transformers/TransformarDataEntrada.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/retoauto/userinterfaces/ObjetosTransversales.java">
           <value>
             <set />
@@ -98,6 +108,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/retoauto/utils/CONSTANTES.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/retoauto/utils/Constantes.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/retoauto/utils/setup/BeforeSuite.java">
           <value>
             <set />
@@ -119,6 +139,51 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/test/resources/features/nombre_producto_carrito.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Automatizacion/Retos/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Automatizacion/Retos/src/main/java/co/com/choucair/autoAPI/questions/RespuestaTodosEmpleados.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Automatizacion/Retos/src/main/java/co/com/choucair/autoAPI/tasks/ListarTodosEmpleados.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Automatizacion/Retos/src/main/java/co/com/choucair/autoAPI/utils/Constantes.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Automatizacion/Retos/src/test/java/co/com/choucair/autoAPI/runners/TodosEmpleados.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Automatizacion/Retos/src/test/java/co/com/choucair/autoAPI/stepdefinitions/TodosEmpleadosStepDefinitions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Automatizacion/Retos/src/test/java/co/com/choucair/autoAPI/stepdefinitions/configuraciones/ConfiguracionStepDefinitions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Automatizacion/Retos/src/test/java/co/com/choucair/autoAPI/stepdefinitions/settings/SettingsStepDefinitions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Automatizacion/Retos/src/test/resources/features/todos_empleados.feature">
           <value>
             <set />
           </value>

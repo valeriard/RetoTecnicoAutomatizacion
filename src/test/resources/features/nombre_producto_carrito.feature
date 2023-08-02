@@ -8,13 +8,13 @@
       Cuando elijo una categoria
       Y luego selecciono una subcategoria
       Y agrego cinco productos con distintas cantidades al carrito
-      |ciudad|almacen|NombreProductoUno|cantidadProductoUno|NombreProductoDos|cantidadProductoDos|NombreProductoTres|cantidadProductoTres|NombreProductoCuatro|cantidadProductoCuatro|NombreProductoCinco|cantidadProductoCinco|
-      |<ciudad>|<almacen>|<NombreProductoUno>|<cantidadProductoUno>|<NombreProductoDos>|<cantidadProductoDos>|<NombreProductoTres>|<cantidadProductoTres>|<NombreProductoCuatro>|<cantidadProductoCuatro>|<NombreProductoCinco>|<cantidadProductoCinco>|
+      |nombreProductoUno|cantidadProductoUno|nombreProductoDos|cantidadProductoDos|nombreProductoTres|cantidadProductoTres|nombreProductoCuatro|cantidadProductoCuatro|nombreProductoCinco|cantidadProductoCinco|
+      |<nombreProductoUno>|<cantidadProductoUno>|<nombreProductoDos>|<cantidadProductoDos>|<nombreProductoTres>|<cantidadProductoTres>|<nombreProductoCuatro>|<cantidadProductoCuatro>|<nombreProductoCinco>|<cantidadProductoCinco>|
       Y ingreso al carrito de compras
       Entonces verifico el nombre de los productos agregados debera ser igual que en el carrito
       Ejemplos:
-        |ciudad   |almacen      |NombreProductoUno|cantidadProductoUno|NombreProductoDos|cantidadProductoDos|NombreProductoTres|cantidadProductoTres|NombreProductoCuatro|cantidadProductoCuatro|NombreProductoCinco|cantidadProductoCinco|
-        |Medellín|Exito Envigado|POKER            |5                  |COSTENA           |1                  |CLUBCOLOMBIA     |2              |CORONA                   |3               |ANDINA             |4              |
+        |nombreProductoUno|cantidadProductoUno|nombreProductoDos|cantidadProductoDos|nombreProductoTres|cantidadProductoTres|nombreProductoCuatro|cantidadProductoCuatro|nombreProductoCinco|cantidadProductoCinco|
+        |POKER            |5                  |COSTENA           |1                  |CLUBCOLOMBIA     |2              |CORONA                   |3               |ANDINA             |4              |
 
 
 
