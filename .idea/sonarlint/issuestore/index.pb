@@ -1,18 +1,10 @@
 
 •
-esrc/main/java/co/com/choucair/certification/retoauto/userinterfaces/ProductosCategoriaUnoCarrito.java,c\3\c33ad6f01a33ce963fe329b6d29da65092c7cc5e
-•
 esrc/main/java/co/com/choucair/certification/retoauto/userinterfaces/ProductosCategoriaDosCarrito.java,f\2\f2609095b72a26e19d077ee7e844973271d158b6
 C
 serenity.properties,2\5\25f1bbdc8dba7ca4a4b90251f1ef69621b24a28c
 <
 build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
-—
-gsrc/test/java/co/com/choucair/certification/retoauto/stepdefinitions/NombreProductoStepDefinitions.java,a\f\af6bc7d3be19b964498be9dedf63a22a13245936
-u
-Esrc/main/java/co/com/choucair/certification/retoauto/models/Data.java,8\1\81b8d0015fdf817f2f93d33f088da300c8027cc5
-|
-Lsrc/main/java/co/com/choucair/certification/retoauto/utils/TiempoEspera.java,f\c\fc35ae5d2c2eea7875d0ae6483ff1f16758863a0
 z
 Jsrc/main/java/co/com/choucair/certification/retoauto/utils/Constantes.java,5\5\550884a11194133aff9a6170569b8a6e3a0ec938
 |

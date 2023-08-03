@@ -10,11 +10,17 @@
       Y agrego cinco productos con distintas cantidades al carrito
       |nombreProductoUno|cantidadProductoUno|nombreProductoDos|cantidadProductoDos|nombreProductoTres|cantidadProductoTres|nombreProductoCuatro|cantidadProductoCuatro|nombreProductoCinco|cantidadProductoCinco|
       |<nombreProductoUno>|<cantidadProductoUno>|<nombreProductoDos>|<cantidadProductoDos>|<nombreProductoTres>|<cantidadProductoTres>|<nombreProductoCuatro>|<cantidadProductoCuatro>|<nombreProductoCinco>|<cantidadProductoCinco>|
-      Y ingreso al carrito de compras
+      Y ingreso al carrito de compras e ingreso un correo
       Entonces verifico el nombre de los productos agregados debera ser igual que en el carrito
+      |nombreProductoUno|nombreProductoDos|nombreProductoTres|nombreProductoCuatro|nombreProductoCinco|
+      |<nombreProductoUno>|<nombreProductoDos>|<nombreProductoTres>|<nombreProductoCuatro>|<nombreProductoCinco>|
+      Y el total de los precios de los productos agregados debera ser igual que en el carrito
+      Y las cantidades de los productos agregados debera ser igual que en el carrito
+      Y el numero de productos agregados debe ser igual que en el carrito
+
       Ejemplos:
         |nombreProductoUno|cantidadProductoUno|nombreProductoDos|cantidadProductoDos|nombreProductoTres|cantidadProductoTres|nombreProductoCuatro|cantidadProductoCuatro|nombreProductoCinco|cantidadProductoCinco|
-        |POKER            |5                  |COSTENA           |1                  |CLUBCOLOMBIA     |2              |CORONA                   |3               |ANDINA             |4              |
+        |AGUILA           |5                  |COSTENA           |5                  |CLUBCOLOMBIA     |6              |CORONA                   |4               |ANDINA             |4              |
 
 
 

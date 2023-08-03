@@ -17,11 +17,6 @@ public class ObjetosTransversales {
     public static final Target seleccionar_almacen =Target.the("seleccionar almacen")
             .located(By.xpath("//*[@id='react-select-4-option-0']/div"));
     public static final Target boton_confirmar = Target.the("Boton confirmar").located(By.xpath("//button[@class='exito-geolocation-3-x-primaryButtonEnable'][contains(.,'Confirmar')]"));
-    //Botones de agregar en diferentes posiciones
-    public static final Target boton_agregar_1 = Target.the("Botón Agregar 1").located(By.xpath("(//span[@class='exito-vtex-components-4-x-buttonText'][contains(.,'Agregar')])[1]"));
-    public static final Target boton_agregar_2 = Target.the("Botón Agregar 2").located(By.xpath("(//span[@class='exito-vtex-components-4-x-buttonText'][contains(.,'Agregar')])[2]"));
-    public static final Target boton_agregar_3 = Target.the("Botón Agregar 3").located(By.xpath("(//span[@class='exito-vtex-components-4-x-buttonText'][contains(.,'Agregar')])[3]"));
-    public static final Target boton_agregar_4 = Target.the("Botón Agregar 4").located(By.xpath("(//span[@class='exito-vtex-components-4-x-buttonText'][contains(.,'Agregar')])[4]"));
-    public static final Target boton_agregar_5 = Target.the("Botón Agregar 5").located(By.xpath("(//span[@class='exito-vtex-components-4-x-buttonText'][contains(.,'Agregar')])[5]"));
+
 
 }
